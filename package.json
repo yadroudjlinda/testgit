@@ -1,0 +1,25 @@
+{
+  "name": "testgit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -fr dist/",
+    "start": "parcel src/*.html --no-cache -p 3000 --open",
+    "build": "npm run clean && parcel build src/*.html --no-content-hash --no-cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadroudjlinda/testgit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadroudjlinda/testgit/issues"
+  },
+  "homepage": "https://github.com/yadroudjlinda/testgit#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
