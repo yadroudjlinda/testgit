@@ -14364,5 +14364,12 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+/* -------------------------------------------------------------------------- */
+/* Components                                                                 */
+/* -------------------------------------------------------------------------- */
+h1, .h1 {
+  background-color: red;
+  color: white;
+}
 
 /*# sourceMappingURL=/core.936dd363.css.map */
