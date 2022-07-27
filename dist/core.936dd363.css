@@ -14368,7 +14368,7 @@ textarea.form-control-lg {
 /* Components                                                                 */
 /* -------------------------------------------------------------------------- */
 h1, .h1 {
-  background-color: red;
+  background-color: rgb(33, 40, 107);
   color: white;
   height: 60px;
   width: 300px;
