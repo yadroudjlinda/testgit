@@ -14370,6 +14370,8 @@ textarea.form-control-lg {
 h1, .h1 {
   background-color: red;
   color: white;
+  height: 60px;
+  width: 300px;
 }
 
 /*# sourceMappingURL=/core.936dd363.css.map */
